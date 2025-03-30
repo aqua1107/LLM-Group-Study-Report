@@ -13,7 +13,7 @@ Starting with the comparison, introduction, and overview of LLM models, the ulti
 
 ## Methodology
 
-* Online (Discord room: [Discord 방 링크](Discord 링크))
+* Online (Discord room)
 * Weekly regular meetings (Every Wed. 21:00 ~ 22:00 (UTC +09:00))
 * Focus on presentations, discussions, and practical exercises
 
@@ -21,13 +21,13 @@ Starting with the comparison, introduction, and overview of LLM models, the ulti
 
 | Week | Learning Content | Objectives | Resources |
 |---|---|---|---|
-| Week1 | LLM Overview | Understand the basic concepts of LLMs | [Resource 1](study_materials/week1_overview.pdf) |
-| Week2 | LLM Model Comparison (GPT, Claude, etc.) | Compare the characteristics of various LLM models | [Resource 2](study_materials/week2_comparison.pdf) |
+| Week1 | LLM Overview | Understand the basic concepts of LLMs | [Resource 1](study_materials/보고서_유지상 (1주차 - LLM 개론 및 사용).pdf) |
+| Week2 | LLM Model Comparison (GPT, Claude, etc.) | Compare the characteristics of various LLM models | [Resource 2](study_materials/보고서_유지상 (2주차 - LLM 비교).pdf) |
 
 ## Resource List
 
-* [Resource 1](study_materials/week1_overview.pdf): LLM Overview
-* [Resource 2](study_materials/week2_comparison.pdf): LLM Model Comparison (GPT, Claude, etc.)
+* [Resource 1](study_materials/보고서_유지상 (1주차 - LLM 개론 및 사용).pdf): LLM Overview
+* [Resource 2](study_materials/보고서_유지상 (2주차 - LLM 비교).pdf): LLM Model Comparison (GPT, Claude, etc.)
 
 ## Progress Report
 

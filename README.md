@@ -23,13 +23,13 @@ Starting with the comparison, introduction, and overview of LLM models, the ulti
 |---|---|---|---|
 | Week 1 | LLM Overview | Understand the basic concepts of LLMs | [Resource 1](https://github.com/aqua1107/LLM-Group-Study-Report/blob/main/study_materials/%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%9C%A0%EC%A7%80%EC%83%81%20(1%EC%A3%BC%EC%B0%A8%20-%20LLM%20%EA%B0%9C%EB%A1%A0%20%EB%B0%8F%20%EC%82%AC%EC%9A%A9).pdf) |
 | Week 2 | LLM Model Comparison (GPT, Claude, etc.) | Compare the characteristics of various LLM models | [Resource 2](https://github.com/aqua1107/LLM-Group-Study-Report/blob/main/study_materials/%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%9C%A0%EC%A7%80%EC%83%81%20(2%EC%A3%BC%EC%B0%A8%20-%20LLM%20%EB%B9%84%EA%B5%90).pdf) |
-| Week 3 | Prompt Injection | Understand prompt injection attacks and learn defense strategies | [Resource 3](https://github.com/aqua1107/LLM-Group-Study-Report/blob/main/study_materials/%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%9C%A0%EC%A7%80%EC%83%81%20(3%EC%A3%BC%EC%B0%A8%20-%20Prompt%20Injection).pdf) |
+| Week 3 | Prompt Injection | Understand prompt injection attacks and learn defense strategies | [Resource 3](https://github.com/aqua1107/LLM-Group-Study-Report/blob/main/study_materials/%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%9C%A0%EC%A7%80%EC%83%81%20(3%EC%A3%BC%EC%B0%A8%20-%20LLM%20%EA%B3%B5%EA%B2%A9).pdf) |
 
 ## Resource List
 
 * [Resource 1](https://github.com/aqua1107/LLM-Group-Study-Report/blob/main/study_materials/%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%9C%A0%EC%A7%80%EC%83%81%20(1%EC%A3%BC%EC%B0%A8%20-%20LLM%20%EA%B0%9C%EB%A1%A0%20%EB%B0%8F%20%EC%82%AC%EC%9A%A9).pdf): LLM Overview  
 * [Resource 2](https://github.com/aqua1107/LLM-Group-Study-Report/blob/main/study_materials/%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%9C%A0%EC%A7%80%EC%83%81%20(2%EC%A3%BC%EC%B0%A8%20-%20LLM%20%EB%B9%84%EA%B5%90).pdf): LLM Model Comparison (GPT, Claude, etc.)  
-* [Resource 3](https://github.com/aqua1107/LLM-Group-Study-Report/blob/main/study_materials/%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%9C%A0%EC%A7%80%EC%83%81%20(3%EC%A3%BC%EC%B0%A8%20-%20Prompt%20Injection).pdf): Prompt Injection  
+* [Resource 3](https://github.com/aqua1107/LLM-Group-Study-Report/blob/main/study_materials/%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%9C%A0%EC%A7%80%EC%83%81%20(3%EC%A3%BC%EC%B0%A8%20-%20LLM%20%EA%B3%B5%EA%B2%A9).pdf): Prompt Injection  
 
 ## Progress Report
 

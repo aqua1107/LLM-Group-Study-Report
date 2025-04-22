@@ -37,4 +37,4 @@ Starting with the comparison, introduction, and overview of LLM models, the ulti
 * Week 1: LLM Overview learning completed (Topic: LLM basic concept)  
 * Week 2: Comparison of LLM models such as GPT, Claude, etc. completed (Topic: GPT, Claude, or other LLM models comparison)  
 * Week 3: Prompt Injection learning completed (Topic: Prompt injection attacks and defense strategies)  
-* Week 4: Exploring and analyzing how an LLM breaks down input text into individual tokens (Topic: Tokenization in LLMs)
+* Week 4: Discussing about exploring and analyzing how an LLM breaks down input text into individual tokens (Topic: Tokenization in LLMs)

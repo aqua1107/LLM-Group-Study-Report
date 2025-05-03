@@ -39,4 +39,4 @@ Starting with the comparison, introduction, and overview of LLM models, the ulti
 * Week 2: Comparison of LLM models such as GPT, Claude, etc. completed (Topic: GPT, Claude, or other LLM models comparison)  
 * Week 3: Prompt Injection learning completed (Topic: Prompt injection attacks and defense strategies)  
 * Week 4: Discussing about exploring and analyzing how an LLM breaks down input text into individual tokens (Topic: Tokenization in LLMs)
-* Week 5: (Code available) Experimenting how words are related in a specific LLM(Topic: Embedding and Cosine Similarity between Words)
+* Week 5: (Code available) Experimenting how words are related in a specific LLM (Topic: Embedding and Cosine Similarity between Words)

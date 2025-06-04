@@ -28,6 +28,7 @@ Starting with the comparison, introduction, and overview of LLM models, the ulti
 | Week 5 | Embedding words and Cosine Similarity in LLM | Experiencing the relationship between the words via LLM and analyzing mathematically in shallow way | [Resource 5](https://github.com/aqua1107/LLM-Group-Study-Report/blob/main/study_materials/%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%9C%A0%EC%A7%80%EC%83%81%20(5%EC%A3%BC%EC%B0%A8%20-%20embedding%EA%B3%BC%20cosine%20similarity).pdf) |
 | Week 6 | Self-Attention and Similarity Calculation | Understand how attention weights are derived from vector similarities | [Resource 6](https://github.com/aqua1107/LLM-Group-Study-Report/blob/main/study_materials/%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%9C%A0%EC%A7%80%EC%83%81%20(6%EC%A3%BC%EC%B0%A8%20-%20How%20Attention%20calculates%20similarity).pdf) |
 | Week 7 | Scaled Dot Product Attention (SDPA) Mechanics | Analyze and implement the mathematical steps of Scaled Dot Product Attention | [Resource 7](https://github.com/aqua1107/LLM-Group-Study-Report/blob/main/study_materials/%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%9C%A0%EC%A7%80%EC%83%81%20(7%EC%A3%BC%EC%B0%A8%20-%20How%20Attention%20score%20is%20calculated)%20.pdf) |
+| Week 8 | Multi-Head Attention | Analyze the mechanics of multi-head attention mathematically | [Resource 8](https://github.com/aqua1107/LLM-Group-Study-Report/blob/main/study_materials/%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%9C%A0%EC%A7%80%EC%83%81%20(8%EC%A3%BC%EC%B0%A8%20-%20Multi-head%20Attention%20with%20Real%20Analysis).pdf) |
 ## Resource List
 
 * [Resource 1](https://github.com/aqua1107/LLM-Group-Study-Report/blob/main/study_materials/%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%9C%A0%EC%A7%80%EC%83%81%20(1%EC%A3%BC%EC%B0%A8%20-%20LLM%20%EA%B0%9C%EB%A1%A0%20%EB%B0%8F%20%EC%82%AC%EC%9A%A9).pdf): LLM Overview  
@@ -37,6 +38,7 @@ Starting with the comparison, introduction, and overview of LLM models, the ulti
 * [Resource 5](https://github.com/aqua1107/LLM-Group-Study-Report/blob/main/study_materials/%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%9C%A0%EC%A7%80%EC%83%81%20(5%EC%A3%BC%EC%B0%A8%20-%20embedding%EA%B3%BC%20cosine%20similarity).pdf): Embedding and Cosine Similarity between words
 * [Resource 6](https://github.com/aqua1107/LLM-Group-Study-Report/blob/main/study_materials/%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%9C%A0%EC%A7%80%EC%83%81%20(6%EC%A3%BC%EC%B0%A8%20-%20How%20Attention%20calculates%20similarity).pdf): How attention calculates similarty
 * [Resource 7](https://github.com/aqua1107/LLM-Group-Study-Report/blob/main/study_materials/%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%9C%A0%EC%A7%80%EC%83%81%20(7%EC%A3%BC%EC%B0%A8%20-%20How%20Attention%20score%20is%20calculated)%20.pdf): The principle of how scaled dot product attention is calculated
+* [Resource 8](https://github.com/aqua1107/LLM-Group-Study-Report/blob/main/study_materials/%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%9C%A0%EC%A7%80%EC%83%81%20(8%EC%A3%BC%EC%B0%A8%20-%20Multi-head%20Attention%20with%20Real%20Analysis).pdf): Rigorous use of mathematics in multi-head attention
 ## Progress Report
 
 * Week 1: LLM Overview learning completed (Topic: LLM basic concept)  
@@ -46,3 +48,4 @@ Starting with the comparison, introduction, and overview of LLM models, the ulti
 * Week 5: (Code available) Experimenting how words are related in a specific LLM (Topic: Embedding and Cosine Similarity between Words)
 * Week 6: Learning how attention is calculated from vector similarity (Topic: Self-Attention and Similarity Calculation)
 * Week 7: Mathematical breakdown and implementation of Scaled Dot Product Attention (Topic: Scaled Dot Product Attention Mechanics)
+* Week 8: Multi-Head Attention with rigorous mathematical tools. (Topic: Mathematical Analysis of Multi-Head Attention)
